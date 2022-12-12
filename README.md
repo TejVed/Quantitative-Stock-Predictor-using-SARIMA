@@ -1,5 +1,5 @@
 # Quantitative-Stock-Predictor-using-SARIMA
-To create a data-web application deployed using the azure app service, which was made on Streamlit, the leading Pythonic data application service. On this website, we display candlestick plots of various stocks listed on the NASDAQ, according to the option of the user; and utilize the Garch based time forecasting algorithm done using Seasonal arima model and conduct a virtual future prediction for the given stock, so as to be able to conduct non-pairs algorithmic trading using time forecasting and Garch-based deep learning.
+The Quantitative Stock Predictor Model uses stocks listed on the NASDAQ, according to the option of the user; and utilize the Garch based time forecasting algorithm done using Seasonal arima model and conduct a virtual future prediction for the given stock, so as to be able to conduct non-pairs algorithmic trading using time forecasting and Garch-based deep learning.
 
 The main models which are implemented in this project are:
 
